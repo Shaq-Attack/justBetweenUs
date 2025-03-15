@@ -1,4 +1,5 @@
-import { ReactElement, useEffect, useState } from 'react';
+/* eslint-disable react/jsx-pascal-case */
+import React, { ReactElement, useEffect, useState } from 'react';
 import { Typography } from '@progress/kendo-react-common';
 import { TextBox, TextArea } from '@progress/kendo-react-inputs';
 import { Button } from '@progress/kendo-react-buttons';

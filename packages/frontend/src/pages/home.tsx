@@ -1,4 +1,4 @@
-import { ReactElement } from 'react';
+import React, { ReactElement } from 'react';
 import { Typography } from '@progress/kendo-react-common';
 import JBULogo from '../logo';
 
